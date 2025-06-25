@@ -9,10 +9,11 @@ This repository contains two core modules:
 
 ## 📁 Folder Structure
 
+```text
 ├── boilerplate
-│ └── (Reusable Spring Boot starter code)
+│   └── (Reusable Spring Boot starter code)
 ├── project
-│ └── (Spring Boot backend for KM Agri)
+│   └── (Spring Boot backend for KM Agri)
 
 
 ---

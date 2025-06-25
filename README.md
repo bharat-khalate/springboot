@@ -52,11 +52,14 @@ The **KM Agri** backend provides intelligent services for farmers to get expert 
 ## 🌿 JPA Branch
 
 The repository has a dedicated branch named **`jpa`** that contains a clean implementation using only **Spring Data JPA**, without MyBatis.
+It also have **JPA** implementation of **PizzaPalace**
+[Link Text](https://github.com/Bharatkhalate2121/srpingboot-react)
 
 ### To switch to the JPA-only implementation:
 
 ```bash
 git checkout jpa
+```
 
 ### ⚙️ Tech Stack
 
@@ -96,4 +99,3 @@ AI microservice must be accessible on the configured host/port.
 
 ### 📄 License
 -This project is licensed under the MIT License.
-

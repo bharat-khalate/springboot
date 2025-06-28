@@ -3,7 +3,7 @@
 This repository contains two core modules:
 
 1. **Boilerplate** – A reusable Spring Boot base with enterprise-ready features.
-2. **Project** – The backend for **KM Agri**, an intelligent platform for farmers.
+2. **Project** – The backend for **KM Agri**, an intelligent platform for farmers (the jpa branch has the main logic).
 
 ---
 
@@ -36,7 +36,7 @@ The `boilerplate` folder includes a generic Spring Boot setup with powerful feat
 
 ## 🌱 2. Project - KM Agri Backend
 
-The **KM Agri** backend provides intelligent services for farmers to get expert guidance and AI-powered insights.
+The **KM Agri** backend provides intelligent services for farmers to get expert guidance and AI-powered insights (the jpa branch has the main logic).
 
 ### 🧩 Key Features
 
